@@ -1,1 +1,1 @@
-# [Si](lordor5.github.io/lordor5/)
+# [Si](lordor5.github.io)
