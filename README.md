@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! 🌟
 
 ## GitHub Stats
-!Lordor's GitHub stats](https://github-readme-stats.vercel.app/api?username=lordor5&show_icons=true&theme=cobalt)
+![Lordor's GitHub stats](https://github-readme-stats.vercel.app/api?username=lordor5&show_icons=true&theme=cobalt)
 
 ## Connect with me
 - [Personal Website](https://github.lordor.es/)
