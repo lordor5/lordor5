@@ -2,10 +2,6 @@
 
 Welcome to my GitHub profile! 🌟
 
-## GitHub Stats
-![Lordor's GitHub stats](https://github-readme-stats.vercel.app/api?username=lordor5&show_icons=true&theme=cobalt)
-
-
 ## Websites I made
 - [Stllink](https://stllink.pages.dev)
 - [Local por horas](https://localporhoras.com)
